@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import plotly.graph_objs as go
 
-file_path = '22_24_streamlit.xlsx'
+file_path = '22_24_streamlit_trans_count.xlsx'
 
 # MCC 라벨
 mcc_labels = {
